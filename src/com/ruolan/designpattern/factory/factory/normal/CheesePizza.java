@@ -1,6 +1,6 @@
 package com.ruolan.designpattern.factory.factory.normal;
 
-import com.ruolan.designpattern.factory.factory.Pizza;
+import com.ruolan.designpattern.factory.simple.Pizza;
 
 public class CheesePizza extends Pizza {
     @Override

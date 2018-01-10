@@ -2,12 +2,12 @@ package com.ruolan.designpattern.factory.simple;
 
 public abstract class Pizza {
 
-    abstract void prepare();
+    public abstract void prepare();
 
-    abstract void bake();
+    public abstract void bake();
 
-    abstract void cut();
+    public abstract void cut();
 
-    abstract void box();
+    public abstract void box();
 
 }

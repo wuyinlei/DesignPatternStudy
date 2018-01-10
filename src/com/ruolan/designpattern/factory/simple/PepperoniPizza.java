@@ -2,22 +2,22 @@ package com.ruolan.designpattern.factory.simple;
 
 public class PepperoniPizza extends Pizza {
     @Override
-    void prepare() {
+   public void prepare() {
 
     }
 
     @Override
-    void bake() {
+    public void bake() {
 
     }
 
     @Override
-    void cut() {
+    public void cut() {
 
     }
 
     @Override
-    void box() {
+    public void box() {
 
     }
 }
